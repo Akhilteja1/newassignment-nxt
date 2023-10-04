@@ -1,4 +1,5 @@
  Apponintment system
+ 
 This is a simple outpatient appointment system API built using Node.js and Express.js. It allows users to list doctors, view details of a specific doctor, and book appointments with available doctors.
 
 #Features
